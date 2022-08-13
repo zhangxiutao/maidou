@@ -1,4 +1,6 @@
 hinohello
+hihello
 me
 sec
 third
+yuan
